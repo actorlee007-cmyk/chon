@@ -1,0 +1,13 @@
+{
+  "best_hashtags": {
+    "Instagram": ["#growth", "#mindset", "#12dimension"],
+    "TikTok": ["#fyp", "#foryou", "#business"],
+    "Threads": ["#thinking", "#insight"]
+  },
+  "peak_hours": {
+    "Instagram": [8, 12, 14, 18, 21],
+    "TikTok": [14, 19, 20, 21, 22, 23],
+    "Threads": [9, 13, 14, 17]
+  },
+  "last_updated": "2023-05-08T00:00:00"
+}
